@@ -1,0 +1,2 @@
+# mojgrad
+Software engineering project in the third year of bachelor's studies. The project includes the development of mobile and web applications. A flutter development framework is used to develop client applications. The server side was developed on .NET Core, and a SQLite database was used as a repository. A team of 5 members and a quality tester participated in the development of applications. The development of the project lasted 13 weeks. The theme of the project is to develop a social network that will raise environmental awareness.
